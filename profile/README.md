@@ -5,6 +5,7 @@ export const manifest = {
     value: "suggested by structure",
     narrative: "implicit in execution",
     identity: "pattern repetition",
+    motto: "follow the white rabbit",
     entity: "3809940TAA"
 };
 ```
